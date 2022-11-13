@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "launcher", "internal csgo Cheat\internal csgo Cheat.vcxproj", "{C7559CE8-5A81-434F-9F2D-422F3D38B04D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImGui DirectX 9 Kiero Hook 2", "CSGO-ImGui-DX9-Kiero-Hook-maste\ImGui DirectX 9 Kiero Hook 2.vcxproj", "{11EA4A46-DC32-4A58-8C1F-5337BE049D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7559CE8-5A81-434F-9F2D-422F3D38B04D}.Debug|x64.ActiveCfg = Debug|x64
+		{C7559CE8-5A81-434F-9F2D-422F3D38B04D}.Debug|x64.Build.0 = Debug|x64
+		{C7559CE8-5A81-434F-9F2D-422F3D38B04D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7559CE8-5A81-434F-9F2D-422F3D38B04D}.Debug|x86.Build.0 = Debug|Win32
+		{C7559CE8-5A81-434F-9F2D-422F3D38B04D}.Release|x64.ActiveCfg = Release|x64
+		{C7559CE8-5A81-434F-9F2D-422F3D38B04D}.Release|x64.Build.0 = Release|x64
+		{C7559CE8-5A81-434F-9F2D-422F3D38B04D}.Release|x86.ActiveCfg = Release|Win32
+		{C7559CE8-5A81-434F-9F2D-422F3D38B04D}.Release|x86.Build.0 = Release|Win32
+		{11EA4A46-DC32-4A58-8C1F-5337BE049D85}.Debug|x64.ActiveCfg = Debug|x64
+		{11EA4A46-DC32-4A58-8C1F-5337BE049D85}.Debug|x64.Build.0 = Debug|x64
+		{11EA4A46-DC32-4A58-8C1F-5337BE049D85}.Debug|x86.ActiveCfg = Debug|Win32
+		{11EA4A46-DC32-4A58-8C1F-5337BE049D85}.Debug|x86.Build.0 = Debug|Win32
+		{11EA4A46-DC32-4A58-8C1F-5337BE049D85}.Release|x64.ActiveCfg = Release|x64
+		{11EA4A46-DC32-4A58-8C1F-5337BE049D85}.Release|x64.Build.0 = Release|x64
+		{11EA4A46-DC32-4A58-8C1F-5337BE049D85}.Release|x86.ActiveCfg = Release|Win32
+		{11EA4A46-DC32-4A58-8C1F-5337BE049D85}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C376B718-B987-45B0-AF92-96F6A5BC3E37}
+	EndGlobalSection
+EndGlobal
